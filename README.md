@@ -27,7 +27,7 @@ asin=Ürün ID’si
 
 reviewerName=Kullanıcı Adı
 
-helpful Faydalı=değerlendirme derecesi
+helpful=Faydalıdeğerlendirme derecesi
 
 reviewText=Değerlendirme
 
